@@ -5,10 +5,6 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=shinjam)](https://solved.ac/shinjam)
 
 
-
-<h3 align="center">Welcome to my humble footprints. I'm a Back-end developer from Seoul.</h3>
-
-
 <p>
 
 - 🌱 I’m currently learning **django**
