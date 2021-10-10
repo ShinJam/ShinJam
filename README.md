@@ -1,7 +1,7 @@
 <img width="100%" src="images/pacman.gif">
 <h1 align="center">안녕하세요 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-![](https://komarev.com/ghpvc/?username=chancellor-dev)
+![](https://komarev.com/ghpvc/?username=shinjam)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=shinjam)](https://solved.ac/shinjam)
 
 
@@ -27,5 +27,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/shinjam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chanceller" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/shinjam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shinjam" /></a></p><br><br>
 
