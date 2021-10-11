@@ -23,7 +23,7 @@
 <h3 align="left">Recent Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [나도 Github 프로필 꾸미기](https://shinjam.tistory.com/entry/%EB%82%98%EB%8F%84-Github-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
