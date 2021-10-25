@@ -23,6 +23,7 @@
 <h3 align="left">Recent Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Network]Cloud 종류](https://shinjam.tistory.com/entry/NetworkCloud-%EC%A2%85%EB%A5%98)
 - [사업 아이디어 평가하기](https://shinjam.tistory.com/entry/%EC%82%AC%EC%97%85-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%ED%8F%89%EA%B0%80%ED%95%98%EA%B8%B0)
 - [Mac Setup](https://shinjam.tistory.com/entry/Mac-Setup)
 - [Git/Github SSH 설정](https://shinjam.tistory.com/entry/GitGithub-SSH-%EC%84%A4%EC%A0%95)
