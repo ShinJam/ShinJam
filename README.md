@@ -23,11 +23,11 @@
 <h3 align="left">Recent Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Test]유닛 테스트&lpar;Unit Test&rpar; vs 통합 테스트&lpar;Integration Test&rpar; vs 기능 테스트&lpar;Functional Test&rpar;](https://shinjam.tistory.com/entry/Test%EC%9C%A0%EB%8B%9B-%ED%85%8C%EC%8A%A4%ED%8A%B8Unit-Test-vs-%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8Integration-Test-vs-%EA%B8%B0%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8Functional-Test)
 - [Overview Of Web System Architecture](https://shinjam.tistory.com/entry/Overview-Of-Web-System-Architecture)
 - [&#39;프리온보딩 백앤드&#39; 그 시작](https://shinjam.tistory.com/entry/%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EB%B0%B1%EC%95%A4%EB%93%9C-%EA%B7%B8-%EC%8B%9C%EC%9E%91)
 - [[Network]기본 개념](https://shinjam.tistory.com/entry/Network%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90)
 - [[Network]Cloud 종류](https://shinjam.tistory.com/entry/NetworkCloud-%EC%A2%85%EB%A5%98)
-- [사업 아이디어 평가하기](https://shinjam.tistory.com/entry/%EC%82%AC%EC%97%85-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%ED%8F%89%EA%B0%80%ED%95%98%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
