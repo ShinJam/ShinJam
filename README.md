@@ -23,11 +23,11 @@
 <h3 align="left">Recent Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Generic 과 Boxing&amp;Unboxing](https://shinjam.tistory.com/entry/Generic-%EA%B3%BC-BoxingUnboxing)
 - [[DB]Transaction&lpar;Race condition, Isolate level](https://shinjam.tistory.com/entry/DBTransactionRace-condition-Isolate-level)
 - [[Test]유닛 테스트&lpar;Unit Test&rpar; vs 통합 테스트&lpar;Integration Test&rpar; vs 기능 테스트&lpar;Functional Test&rpar;](https://shinjam.tistory.com/entry/Test%EC%9C%A0%EB%8B%9B-%ED%85%8C%EC%8A%A4%ED%8A%B8Unit-Test-vs-%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8Integration-Test-vs-%EA%B8%B0%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8Functional-Test)
 - [Overview Of Web System Architecture](https://shinjam.tistory.com/entry/Overview-Of-Web-System-Architecture)
 - [&#39;프리온보딩 백앤드&#39; 그 시작](https://shinjam.tistory.com/entry/%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EB%B0%B1%EC%95%A4%EB%93%9C-%EA%B7%B8-%EC%8B%9C%EC%9E%91)
-- [[Network]기본 개념](https://shinjam.tistory.com/entry/Network%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
