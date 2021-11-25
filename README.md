@@ -23,11 +23,11 @@
 <h3 align="left">Recent Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Interpreter VS Compiler](https://shinjam.tistory.com/entry/Interpreter-VS-Compiler)
 - [Golang 공부 중](https://shinjam.tistory.com/entry/Golang-%EA%B3%B5%EB%B6%80-%EC%A4%91)
 - [Generic 과 Boxing&amp;Unboxing](https://shinjam.tistory.com/entry/Generic-%EA%B3%BC-BoxingUnboxing)
 - [[DB]Transaction&lpar;Race condition, Isolate level](https://shinjam.tistory.com/entry/DBTransactionRace-condition-Isolate-level)
 - [[Test]유닛 테스트&lpar;Unit Test&rpar; vs 통합 테스트&lpar;Integration Test&rpar; vs 기능 테스트&lpar;Functional Test&rpar;](https://shinjam.tistory.com/entry/Test%EC%9C%A0%EB%8B%9B-%ED%85%8C%EC%8A%A4%ED%8A%B8Unit-Test-vs-%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8Integration-Test-vs-%EA%B8%B0%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8Functional-Test)
-- [Overview Of Web System Architecture](https://shinjam.tistory.com/entry/Overview-Of-Web-System-Architecture)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
