@@ -23,11 +23,11 @@
 <h3 align="left">Recent Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [환경변수 관리 하기&lpar;direnv, dotenv&rpar;](https://shinjam.tistory.com/entry/%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EA%B4%80%EB%A6%AC-%ED%95%98%EA%B8%B0direnv)
 - [Concurrent requests in go and python](https://shinjam.tistory.com/entry/Concurrentmultiple-requests-in-go-and-python)
 - [Interpreter VS Compiler](https://shinjam.tistory.com/entry/Interpreter-VS-Compiler)
 - [Golang 공부 중](https://shinjam.tistory.com/entry/Golang-%EA%B3%B5%EB%B6%80-%EC%A4%91)
 - [Generic 과 Boxing&amp;Unboxing](https://shinjam.tistory.com/entry/Generic-%EA%B3%BC-BoxingUnboxing)
-- [[DB]Transaction&lpar;Race condition, Isolate level](https://shinjam.tistory.com/entry/DBTransactionRace-condition-Isolate-level)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
