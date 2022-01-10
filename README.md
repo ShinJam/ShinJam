@@ -23,11 +23,11 @@
 <h3 align="left">Recent Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Network] HTTP/2](https://shinjam.tistory.com/entry/Network-HTTP2-1)
 - [brew install 특정 버전](https://shinjam.tistory.com/entry/brew-install-%ED%8A%B9%EC%A0%95-%EB%B2%84%EC%A0%84)
 - [[Network] HTTP/0.9 ~ 1.1](https://shinjam.tistory.com/entry/Network-HTTP09-11-1)
 - [[Network/OS] Network Socket&lpar;IP Socket, WebSocket&rpar;](https://shinjam.tistory.com/entry/NetworkOS-Network-SocketIP-Socket-WebSocket)
 - [Semantic Versioning &amp; Conventional Commit](https://shinjam.tistory.com/entry/Semantic-Versioning-Conventional-Commit)
-- [환경변수 관리 하기&lpar;direnv, dotenv&rpar;](https://shinjam.tistory.com/entry/%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EA%B4%80%EB%A6%AC-%ED%95%98%EA%B8%B0direnv)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
