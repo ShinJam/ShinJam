@@ -23,11 +23,11 @@
 <h3 align="left">Recent Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [MVP&amp;PMF](https://shinjam.tistory.com/entry/MVPPMF)
 - [비지니스 모델](https://shinjam.tistory.com/entry/%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4-%EB%AA%A8%EB%8D%B8)
 - [유닛 이코노믹스](https://shinjam.tistory.com/entry/%EC%9C%A0%EB%8B%9B-%EC%9D%B4%EC%BD%94%EB%85%B8%EB%AF%B9%EC%8A%A4)
 - [[Network] HTTP/3 and QUIC](https://shinjam.tistory.com/entry/Network-HTTP3-and-QUIC)
 - [No Operation&lpar;no-op, nop, noop&rpar;](https://shinjam.tistory.com/entry/No-Operationno-op-nop-noop)
-- [[Network] HTTP/2](https://shinjam.tistory.com/entry/Network-HTTP2-1)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
