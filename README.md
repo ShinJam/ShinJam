@@ -23,11 +23,11 @@
 <h3 align="left">Recent Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [k8s 공부 하면서 헷갈렸던  용어 정리](https://shinjam.tistory.com/entry/k8s-%EA%B3%B5%EB%B6%80-%ED%95%98%EB%A9%B4%EC%84%9C-%ED%97%B7%EA%B0%88%EB%A0%B8%EB%8D%98-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC)
 - [docker compose VS docker-compose](https://shinjam.tistory.com/entry/docker-compose-VS-docker-compose)
 - [피벗&lpar;Pivot&rpar;](https://shinjam.tistory.com/entry/%ED%94%BC%EB%B2%97Pivot)
 - [MVP&amp;PMF](https://shinjam.tistory.com/entry/MVPPMF)
 - [비지니스 모델](https://shinjam.tistory.com/entry/%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4-%EB%AA%A8%EB%8D%B8)
-- [유닛 이코노믹스](https://shinjam.tistory.com/entry/%EC%9C%A0%EB%8B%9B-%EC%9D%B4%EC%BD%94%EB%85%B8%EB%AF%B9%EC%8A%A4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
