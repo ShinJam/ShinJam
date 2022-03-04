@@ -23,11 +23,11 @@
 <h3 align="left">Recent Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [[CKA] Scheduling](https://shinjam.tistory.com/entry/CKA-Scheduling)
 - [[CKA] Core Concepts](https://shinjam.tistory.com/entry/CKA-Core-Concepts)
 - [Network command line](https://shinjam.tistory.com/entry/Network-command-line)
 - [헷갈리는 network 개념 요약](https://shinjam.tistory.com/entry/%ED%97%B7%EA%B0%88%EB%A6%AC%EB%8A%94-network-%EA%B0%9C%EB%85%90-%EC%9A%94%EC%95%BD)
 - [초기 유저 확보](https://shinjam.tistory.com/entry/%EC%B4%88%EA%B8%B0-%EC%9C%A0%EC%A0%80-%ED%99%95%EB%B3%B4)
-- [k8s 공부 하면서 헷갈렸던  용어 정리](https://shinjam.tistory.com/entry/k8s-%EA%B3%B5%EB%B6%80-%ED%95%98%EB%A9%B4%EC%84%9C-%ED%97%B7%EA%B0%88%EB%A0%B8%EB%8D%98-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
