@@ -23,11 +23,11 @@
 <h3 align="left">Recent Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [[CKA] Cluster Maintenance](https://shinjam.tistory.com/entry/CKA-Cluster-Maintenance)
 - [[CKA] Application Lifecycle Management](https://shinjam.tistory.com/entry/CKA-Application-Lifecycle-Management)
 - [[CKA] logging &amp; monitoring](https://shinjam.tistory.com/entry/CKA-logging-monitoring)
 - [Funnel &amp; Cohort](https://shinjam.tistory.com/entry/Funner-Cohort)
 - [[CKA] Scheduling](https://shinjam.tistory.com/entry/CKA-Scheduling)
-- [[CKA] Core Concepts](https://shinjam.tistory.com/entry/CKA-Core-Concepts)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
